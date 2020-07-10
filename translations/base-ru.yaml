@@ -142,7 +142,7 @@ mainMenu:
     changelog: Список изменений
     importSavegame: Импорт
     openSourceHint: Это игра с открытым исходным кодом!
-    discordLink: Оффициальный Дискорд Сервер
+    discordLink: Наш Discord
     helpTranslate: Помоги с переводом!
 
     # This is shown when using firefox and other browsers which are not supported.
